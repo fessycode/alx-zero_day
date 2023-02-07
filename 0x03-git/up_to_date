@@ -1,0 +1,8 @@
+Command Lines
+
+git add .
+git commit -m "message"
+git status
+git push
+git checkout -b newbranch
+git pull
